@@ -28,7 +28,7 @@ const Hero = () => {
           
           {/* Location Badge */}
           <span className="inline-flex items-center gap-2 bg-teal-950/90 border border-teal-500/30 text-teal-300 px-4 py-1.5 rounded-full text-xs font-medium w-fit mb-6 shadow-sm">
-            <CheckCircle2 size={15} className="text-teal-400" /> Serving Bengaluru & Surrounding Areas
+            <CheckCircle2 size={15} className="text-teal-400" /> Serving Malad West & Surrounding Areas
           </span>
 
           {/* Stark White Bold Headline */}

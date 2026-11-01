@@ -238,7 +238,7 @@ const AboutContact = () => {
             <span>Follow @{instagramUsername}</span>
           </a>
 
-          <p className="text-slate-500">Poonam Sagar Complex, Mira Road (East), Mumbai</p>
+          <p className="text-slate-500">Malad West, Mumbai</p>
         </div>
       </footer>
 
