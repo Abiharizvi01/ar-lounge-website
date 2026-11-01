@@ -202,7 +202,7 @@ const AboutContact = () => {
                 </div>
                 <h4 className="font-bold text-slate-900 text-xl mt-6">Workshop Location</h4>
                 <p className="text-slate-800 text-sm font-semibold mt-2">
-                  Poonam Sagar Complex, Mira Road (East), Mumbai, Maharashtra
+                  Malad West, Mumbai, Maharashtra
                 </p>
                 <p className="text-xs text-slate-500 mt-2 leading-relaxed">
                   Serving all areas across Mumbai & Thane with doorstep inspection and catalog viewing.
